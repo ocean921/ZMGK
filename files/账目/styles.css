@@ -4,7 +4,7 @@
   background-image:none;
   position:relative;
   left:-104px;
-  width:856px;
+  width:821px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -24,8 +24,8 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:600px;
-  top:4727px;
+  left:552px;
+  top:4716px;
   width:360px;
   height:720px;
 }
@@ -49,7 +49,7 @@
 #u1 {
   border-width:0px;
   position:absolute;
-  left:600px;
+  left:558px;
   top:6389px;
   width:360px;
   height:720px;
@@ -75,7 +75,7 @@
   border-width:0px;
   position:absolute;
   left:139px;
-  top:7246px;
+  top:7237px;
   width:360px;
   height:720px;
 }
@@ -100,7 +100,7 @@
   border-width:0px;
   position:absolute;
   left:139px;
-  top:4727px;
+  top:4716px;
   width:360px;
   height:720px;
 }
@@ -149,7 +149,7 @@
 #u5 {
   border-width:0px;
   position:absolute;
-  left:600px;
+  left:552px;
   top:5556px;
   width:360px;
   height:720px;
@@ -174,7 +174,7 @@
 #u6 {
   border-width:0px;
   position:absolute;
-  left:560px;
+  left:552px;
   top:3903px;
   width:360px;
   height:720px;
@@ -224,7 +224,7 @@
 #u8 {
   border-width:0px;
   position:absolute;
-  left:560px;
+  left:552px;
   top:3093px;
   width:360px;
   height:720px;
@@ -799,7 +799,7 @@
   border-width:0px;
   position:absolute;
   left:139px;
-  top:7192px;
+  top:7180px;
   width:221px;
   height:28px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
@@ -825,8 +825,8 @@
 #u26 {
   border-width:0px;
   position:absolute;
-  left:544px;
-  top:2261px;
+  left:552px;
+  top:2259px;
   width:360px;
   height:720px;
 }
@@ -1010,11 +1010,36 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u33_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:225px;
+}
+#u33 {
+  border-width:0px;
+  position:absolute;
+  left:589px;
+  top:7378px;
+  width:300px;
+  height:225px;
+}
+#u33_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
 body.a {  background-color:rgba(228, 228, 228, 1);
   background-image:none;
   position:relative;
   left:-0px;
-  width:360px;
+  width:889px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -1802,4 +1827,10 @@ body.a {  background-color:rgba(228, 228, 228, 1);
   top:51px;
   width:355px;
   height:234px;
+}
+#u33.a {
+}
+#u33_img.a {
+}
+#u33.a {
 }
