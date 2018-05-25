@@ -1440,8 +1440,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:912px;
-  height:198px;
+  width:1014px;
+  height:220px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1450,18 +1450,16 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'Arial Normal', 'Arial';
-  font-weight:400;
   font-style:normal;
 }
 #u48 {
   border-width:0px;
   position:absolute;
-  left:103px;
+  left:57px;
   top:1357px;
-  width:912px;
-  height:198px;
+  width:1014px;
+  height:220px;
   font-family:'Arial Normal', 'Arial';
-  font-weight:400;
   font-style:normal;
 }
 #u48_text {
@@ -1469,7 +1467,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:912px;
+  width:1014px;
   word-wrap:break-word;
 }
 #u49_div {
@@ -1493,7 +1491,7 @@
 #u49 {
   border-width:0px;
   position:absolute;
-  left:103px;
+  left:57px;
   top:1319px;
   width:169px;
   height:28px;
@@ -1514,7 +1512,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:97px;
+  width:169px;
   height:28px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1532,7 +1530,7 @@
   position:absolute;
   left:57px;
   top:1452px;
-  width:97px;
+  width:169px;
   height:28px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -2702,7 +2700,7 @@ body.a {  background-color:rgba(228, 228, 228, 1);
   left:15px;
   top:609px;
   width:298px;
-  height:208px;
+  height:224px;
 }
 #u48_div.a {
   border-width:0px;
@@ -2710,7 +2708,7 @@ body.a {  background-color:rgba(228, 228, 228, 1);
   left:0px;
   top:0px;
   width:298px;
-  height:208px;
+  height:224px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -2719,14 +2717,13 @@ body.a {  background-color:rgba(228, 228, 228, 1);
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'Arial Normal', 'Arial';
-  font-weight:400;
   font-style:normal;
 }
 #u48.a {
   left:15px;
   top:609px;
   width:298px;
-  height:208px;
+  height:224px;
 }
 #u48_text.a {
   width:298px;
