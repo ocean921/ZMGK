@@ -891,7 +891,7 @@
   border-width:0px;
   position:absolute;
   left:57px;
-  top:1589px;
+  top:1592px;
   width:97px;
   height:28px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
@@ -1245,7 +1245,7 @@
   border-width:0px;
   position:absolute;
   left:76px;
-  top:367px;
+  top:349px;
   width:904px;
   height:37px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
@@ -1271,8 +1271,8 @@
 #u41 {
   border-width:0px;
   position:absolute;
-  left:130px;
-  top:434px;
+  left:131px;
+  top:396px;
   width:885px;
   height:864px;
 }
@@ -1440,8 +1440,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1014px;
-  height:220px;
+  width:894px;
+  height:271px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1449,25 +1449,27 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Normal', 'Arial';
+  font-family:'微软雅黑';
   font-style:normal;
+  font-size:16px;
 }
 #u48 {
   border-width:0px;
   position:absolute;
-  left:57px;
-  top:1357px;
-  width:1014px;
-  height:220px;
-  font-family:'Arial Normal', 'Arial';
+  left:63px;
+  top:1308px;
+  width:894px;
+  height:271px;
+  font-family:'微软雅黑';
   font-style:normal;
+  font-size:16px;
 }
 #u48_text {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:1014px;
+  width:894px;
   word-wrap:break-word;
 }
 #u49_div {
@@ -1492,7 +1494,7 @@
   border-width:0px;
   position:absolute;
   left:57px;
-  top:1319px;
+  top:1270px;
   width:169px;
   height:28px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
@@ -2700,7 +2702,7 @@ body.a {  background-color:rgba(228, 228, 228, 1);
   left:15px;
   top:609px;
   width:298px;
-  height:224px;
+  height:296px;
 }
 #u48_div.a {
   border-width:0px;
@@ -2708,7 +2710,7 @@ body.a {  background-color:rgba(228, 228, 228, 1);
   left:0px;
   top:0px;
   width:298px;
-  height:224px;
+  height:296px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -2716,14 +2718,15 @@ body.a {  background-color:rgba(228, 228, 228, 1);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Normal', 'Arial';
+  font-family:'微软雅黑';
   font-style:normal;
+  font-size:16px;
 }
 #u48.a {
   left:15px;
   top:609px;
   width:298px;
-  height:224px;
+  height:296px;
 }
 #u48_text.a {
   width:298px;
