@@ -15,6 +15,9 @@
 }
 ._图片 {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -64,6 +67,10 @@
   text-align:left;
 }
 .line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
 .icon {
 }
